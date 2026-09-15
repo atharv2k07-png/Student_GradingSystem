@@ -84,8 +84,6 @@ The **Student Grading System** is a beginner-friendly Python mini project that a
 
 Instead of manually calculating everything, just enter the marks and let Python do the work. ⚡
 
----
-
 ## 🚀 Features
 
 - 👤 Student name input
@@ -96,96 +94,104 @@ Instead of manually calculating everything, just enter the marks and let Python 
 - ✅ Pass / ❌ Fail status
 - 💻 Simple command-line interface
 
----
-
 ## 🧠 How It Works
 
-```text
-Student Marks
-      ↓
-Calculate Total
-      ↓
-Calculate Percentage
-      ↓
-Assign Grade
-      ↓
+Student Marks  
+↓  
+Calculate Total  
+↓  
+Calculate Percentage  
+↓  
+Assign Grade  
+↓  
 Display Result
-📊 Grading Criteria
-Percentage	Grade
-90 – 100%	🟢 A+
-80 – 89%	🟢 A
-70 – 79%	🔵 B
-60 – 69%	🟡 C
-50 – 59%	🟠 D
-Below 50%	🔴 F
-💻 Example
-STUDENT GRADING SYSTEM
 
-Enter student name: Atharv
+## 📊 Grading Criteria
 
-Enter Maths marks: 92
-Enter Science marks: 85
-Enter English marks: 88
-Enter Computer marks: 95
-Enter Social Science marks: 80
+| Percentage | Grade |
+|------------|-------|
+| 90 - 100% | A+ |
+| 80 - 89% | A |
+| 70 - 79% | B |
+| 60 - 69% | C |
+| 50 - 59% | D |
+| Below 50% | F |
 
-----------------------------
-     STUDENT RESULT
-----------------------------
-Name: Atharv
-Total Marks: 440.0
-Percentage: 88.0 %
-Grade: A
-----------------------------
-Result: PASS
-----------------------------
-Thank you!
-🛠️ Tech Stack
+## 💻 Example
 
-Language: Python 🐍
+    STUDENT GRADING SYSTEM
 
-Editor: Visual Studio Code 💻
+    Enter student name: Atharv
 
-📚 Concepts Used
+    Enter Maths marks: 92
+    Enter Science marks: 85
+    Enter English marks: 88
+    Enter Computer marks: 95
+    Enter Social Science marks: 80
 
-This project helped practice fundamental Python concepts:
+    ----------------------------
+         STUDENT RESULT
+    ----------------------------
+    Name: Atharv
+    Total Marks: 440.0
+    Percentage: 88.0 %
+    Grade: A
+    ----------------------------
+    Result: PASS
+    ----------------------------
+    Thank you!
 
-Variables
-User Input
-Data Types
-Arithmetic Operations
-Conditional Statements
-Basic Automation
-Formatted Output
-▶️ Run Locally
-1. Clone the repository
-git clone https://github.com/your-username/Student-Grading-System.git
-2. Open the project
-cd Student-Grading-System
-3. Run the program
-python student_grading.py
-🎯 Project Goal
+## 🛠️ Tech Stack
+
+- Python 3
+- Visual Studio Code
+
+## 📚 Concepts Used
+
+This project helped practice:
+
+- Variables
+- User Input
+- Data Types
+- Arithmetic Operations
+- Conditional Statements
+- Basic Automation
+- Formatted Output
+
+## ▶️ Run Locally
+
+### 1. Clone the repository
+
+    git clone https://github.com/your-username/Student-Grading-System.git
+
+### 2. Open the project
+
+    cd Student-Grading-System
+
+### 3. Run the program
+
+    python student_grading.py
+
+## 🎯 Project Goal
 
 The goal of this project is to understand how Python can be used to automate simple real-world tasks while strengthening programming fundamentals.
 
-🔮 Future Improvements
+## 🔮 Future Improvements
 
-Some features that could be added in future versions:
+- Support for multiple students
+- Save results to a file
+- Generate student reports
+- Add a graphical user interface
+- Store student records
 
-📋 Support for multiple students
-💾 Save results to a file
-📊 Generate student reports
-🖥️ Add a graphical user interface
-🗃️ Store student records
-👨‍💻 Author
-Atharv Rastogi
+## 👨‍💻 Author
 
-🎓 B.Tech CSE – Artificial Intelligence & Data Engineering
+**Atharv Rastogi**
 
-<div align="center">
+B.Tech CSE - Artificial Intelligence and Data Engineering
+
+---
 
 ⭐ If you found this project useful, consider giving it a star!
 
-Made with 🐍 Python
-
-</div> ```
+Made with Python 🐍
