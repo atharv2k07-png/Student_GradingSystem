@@ -25,6 +25,8 @@ The program takes marks for different subjects, calculates the total marks and p
 
 ```bash
 git clone https://github.com/your-username/Student-Grading-System.git
+```
+
 Open the project in VS Code.
 Run the program:
 python student_grading.py
@@ -65,12 +67,6 @@ now give me description
 GitHub description:
 
 A simple Python-based Student Grading System that calculates total marks, percentage, grade, and pass/fail status based on student performance.
-
-now a sexy readme
-
-Absolutely 😎 Here’s a clean, modern, “sexy” GitHub README without making a beginner project look unnecessarily complicated.
-
-Copy this into README.md:
 
 # 🎓 Student Grading System
 
